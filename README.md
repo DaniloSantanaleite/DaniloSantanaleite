@@ -1,10 +1,11 @@
 ## Hello! I'm Danilo Leite👋🏼
 
-I graduated in International Trade from the University of São Paulo City and have a passion for studying languages, with good knowledge of English. My skills include problem-solving, communication, analytical thinking, and interpersonal relationships.
+Olá, meu nome é Danilo Leite e estou em processo de transição para a área de tecnologia.
 
-I have a lot of professional experience in administrative tasks, managing deadlines, and preparing management reports.
+Estou muito entusiasmado com as oportunidades e desafios que a área de tecnologia oferece e pronto para aplicar meus conhecimentos em projetos que agreguem valor real às empresas e seus clientes.
 
-Also, I have a strong interest in technology and a genuine curiosity about the field of Web Development. Currently, I am deeply engaged in learning HTML, CSS and JavaScript.
+WhatsApp: +55 11 98117 - 2310
+E-mail: Danilo.baumann@icloud.com
 
 <div style="display: inline_block"><br>
   <img align="center" alt=" Danilo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
